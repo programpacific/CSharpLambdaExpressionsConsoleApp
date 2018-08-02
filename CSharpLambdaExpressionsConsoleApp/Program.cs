@@ -10,6 +10,7 @@ namespace CSharpLambdaExpressionsConsoleApp
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
